@@ -1,2 +1,2 @@
 ## Status
- Site live at https://laif.in
+ Site live at http://laif.in

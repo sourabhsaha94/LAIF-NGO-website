@@ -1,2 +1,2 @@
-# LAIF-NGO-website
-A PHP website for a non-governmental organization called Legal Aid Initiative Forum
+## Status
+ Site live at https://sourabhsaha94.github.io/Adhrit-non-profit-website
